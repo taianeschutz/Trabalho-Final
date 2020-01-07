@@ -66,6 +66,7 @@ Content-Type: application/json; charset=UTF8
   "user": {"id": 2}
 }
 
+
 ###
 
 GET http://localhost:5000/carrinho/ HTTP/1.1
