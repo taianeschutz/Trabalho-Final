@@ -26,9 +26,9 @@ POST http://localhost:5000/usuarios/ HTTP/1.1
 Content-Type: application/json; charset=UTF-8
 
 {
-  "nome": "Taiane",
-  "email": "taiane@gmail.com",
-  "senha": "34567"
+  "nome": "Alessandro",
+  "email": "ale@gmail.com",
+  "senha": "12345"
 }
 
 ###
@@ -37,9 +37,9 @@ POST http://localhost:5000/produtos/ HTTP/1.1
 Content-Type: application/json; charset=UTF-8
 
 {
-  "raca": "Gato",
-  "valor": "19.90",
-  "quantidade": 1
+  "raca": "Cachorro",
+  "valor": "59.90",
+  "quantidade": 2
 }
 
 
